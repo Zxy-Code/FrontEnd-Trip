@@ -17,19 +17,33 @@
 3. 另附各个浏览器的并发请求数
 
 IE 6 and 7:      2
+
 IE 8:            6
+
 IE 9:            6
+
 IE 10:           8
+
 IE 11:           8
+
 Firefox 2:       2
+
 Firefox 3:       6
+
 Firefox 4 to 46: 6
+
 Opera 9.63:      4
+
 Opera 10:        8
+
 Opera 11 and 12: 6
+
 Chrome 1 and 2:  6
+
 Chrome 3:        4
+
 Chrome 4 to 23:  6
+
 Safari 3 and 4:  4
 
 ## 扩展
