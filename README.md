@@ -1,5 +1,7 @@
 # front-end trip
-知识积累ing
+不积跬步，无以至千里
+
+不积小流，无以成江海
 ## 广度
 - http
 - vue
